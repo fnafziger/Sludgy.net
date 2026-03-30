@@ -1,0 +1,8215 @@
+{
+  "hash_name": "Zeus x27 | Tosai (Well-Worn)",
+  "display_name": "Zeus x27 | Tosai (Well-Worn)",
+  "price_history": [
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 8,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 21,
+      "median_price": 2.927
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 9,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 75,
+      "median_price": 2.048
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 10,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 87,
+      "median_price": 1.548
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 11,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 69,
+      "median_price": 1.686
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 12,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 75,
+      "median_price": 1.649
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 13,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 71,
+      "median_price": 1.664
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 14,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 66,
+      "median_price": 1.719
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 15,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 77,
+      "median_price": 1.777
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 16,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 54,
+      "median_price": 1.487
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 17,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 79,
+      "median_price": 1.147
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 18,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 93,
+      "median_price": 1.096
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 19,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 93,
+      "median_price": 1.199
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 20,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 67,
+      "median_price": 1.003
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 21,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 86,
+      "median_price": 0.98
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 22,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 75,
+      "median_price": 0.934
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 23,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 90,
+      "median_price": 0.954
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 24,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 71,
+      "median_price": 1.045
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 25,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 85,
+      "median_price": 1.002
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 26,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 82,
+      "median_price": 0.983
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 27,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.921
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 28,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 85,
+      "median_price": 0.767
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 29,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 74,
+      "median_price": 0.778
+    },
+    {
+      "timestamp": {
+        "month": 4,
+        "day": 30,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 91,
+      "median_price": 0.763
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 1,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 81,
+      "median_price": 0.817
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 2,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 75,
+      "median_price": 0.858
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 3,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 87,
+      "median_price": 0.772
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 4,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 70,
+      "median_price": 0.787
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 5,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 69,
+      "median_price": 0.774
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 6,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 70,
+      "median_price": 0.739
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 7,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 78,
+      "median_price": 0.756
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 8,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 115,
+      "median_price": 0.804
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 9,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 89,
+      "median_price": 0.823
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 10,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 67,
+      "median_price": 0.935
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 11,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 56,
+      "median_price": 0.875
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 12,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 77,
+      "median_price": 0.841
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 13,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 71,
+      "median_price": 0.918
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 14,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 98,
+      "median_price": 0.914
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 15,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 58,
+      "median_price": 0.949
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 16,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 71,
+      "median_price": 0.891
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 17,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 81,
+      "median_price": 0.783
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 18,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 81,
+      "median_price": 0.774
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 19,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 60,
+      "median_price": 0.829
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 20,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 77,
+      "median_price": 0.829
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 21,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 90,
+      "median_price": 0.836
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 22,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 95,
+      "median_price": 0.845
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 23,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 113,
+      "median_price": 0.829
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 24,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 65,
+      "median_price": 0.777
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 25,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 68,
+      "median_price": 0.725
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 26,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 79,
+      "median_price": 0.721
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 27,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 78,
+      "median_price": 0.742
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 28,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 87,
+      "median_price": 0.767
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 29,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 80,
+      "median_price": 0.781
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 30,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.744
+    },
+    {
+      "timestamp": {
+        "month": 5,
+        "day": 31,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 74,
+      "median_price": 0.733
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 1,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 73,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 2,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 67,
+      "median_price": 0.691
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 3,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 71,
+      "median_price": 0.698
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 4,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 68,
+      "median_price": 0.698
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 5,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 64,
+      "median_price": 0.68
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 6,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 52,
+      "median_price": 0.646
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 7,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 79,
+      "median_price": 0.631
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 8,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 78,
+      "median_price": 0.637
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 9,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 90,
+      "median_price": 0.667
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 10,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 51,
+      "median_price": 0.673
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 11,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 75,
+      "median_price": 0.645
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 12,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 70,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 13,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 48,
+      "median_price": 0.687
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 14,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 67,
+      "median_price": 0.655
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 15,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 83,
+      "median_price": 0.667
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 16,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 67,
+      "median_price": 0.674
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 17,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 49,
+      "median_price": 0.688
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 18,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 57,
+      "median_price": 0.677
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 19,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 53,
+      "median_price": 0.711
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 20,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 51,
+      "median_price": 0.662
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 21,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.662
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 22,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 65,
+      "median_price": 0.682
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 23,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 43,
+      "median_price": 0.679
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 24,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 36,
+      "median_price": 0.671
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 25,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 65,
+      "median_price": 0.697
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 26,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.674
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 27,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 78,
+      "median_price": 0.621
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 28,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.668
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 29,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 55,
+      "median_price": 0.622
+    },
+    {
+      "timestamp": {
+        "month": 6,
+        "day": 30,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 62,
+      "median_price": 0.615
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 1,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 57,
+      "median_price": 0.64
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 2,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 63,
+      "median_price": 0.613
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 3,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 79,
+      "median_price": 0.612
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 4,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 39,
+      "median_price": 0.618
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 5,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 54,
+      "median_price": 0.617
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 6,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 44,
+      "median_price": 0.63
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 7,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 71,
+      "median_price": 0.62
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 8,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 53,
+      "median_price": 0.604
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 9,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 45,
+      "median_price": 0.61
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 10,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 48,
+      "median_price": 0.602
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 11,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 50,
+      "median_price": 0.596
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 12,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 46,
+      "median_price": 0.617
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 13,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 47,
+      "median_price": 0.583
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 14,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 81,
+      "median_price": 0.643
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 15,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 26,
+      "median_price": 0.612
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 16,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 55,
+      "median_price": 0.703
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 17,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 42,
+      "median_price": 0.712
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 18,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 46,
+      "median_price": 0.691
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 19,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 31,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 20,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 49,
+      "median_price": 0.57
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 21,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 55,
+      "median_price": 0.565
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 22,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 71,
+      "median_price": 0.592
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 23,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 43,
+      "median_price": 0.582
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 24,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 48,
+      "median_price": 0.554
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 25,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 43,
+      "median_price": 0.557
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 26,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 57,
+      "median_price": 0.582
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 27,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 70,
+      "median_price": 0.495
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 28,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 57,
+      "median_price": 0.469
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 29,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 82,
+      "median_price": 0.451
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 30,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 101,
+      "median_price": 0.472
+    },
+    {
+      "timestamp": {
+        "month": 7,
+        "day": 31,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 76,
+      "median_price": 0.473
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 1,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 112,
+      "median_price": 0.507
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 2,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 77,
+      "median_price": 0.508
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 3,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 69,
+      "median_price": 0.523
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 4,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 78,
+      "median_price": 0.527
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 5,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 47,
+      "median_price": 0.501
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 6,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 102,
+      "median_price": 0.511
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 7,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 72,
+      "median_price": 0.541
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 8,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 57,
+      "median_price": 0.547
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 9,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 51,
+      "median_price": 0.538
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 10,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 55,
+      "median_price": 0.516
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 11,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 49,
+      "median_price": 0.512
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 12,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 47,
+      "median_price": 0.497
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 13,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 78,
+      "median_price": 0.501
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 14,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 55,
+      "median_price": 0.485
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 15,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 63,
+      "median_price": 0.467
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 16,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 60,
+      "median_price": 0.49
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 17,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 64,
+      "median_price": 0.472
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 18,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 59,
+      "median_price": 0.497
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 19,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 39,
+      "median_price": 0.501
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 20,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.432
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 21,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 77,
+      "median_price": 0.428
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 22,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 38,
+      "median_price": 0.425
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 23,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 62,
+      "median_price": 0.4
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 24,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 72,
+      "median_price": 0.41
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 25,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 31,
+      "median_price": 0.462
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 26,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 50,
+      "median_price": 0.417
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 27,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 69,
+      "median_price": 0.397
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 28,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 81,
+      "median_price": 0.427
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 29,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 46,
+      "median_price": 0.452
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 30,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.434
+    },
+    {
+      "timestamp": {
+        "month": 8,
+        "day": 31,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 44,
+      "median_price": 0.432
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 1,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 41,
+      "median_price": 0.409
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 2,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 37,
+      "median_price": 0.418
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 3,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 48,
+      "median_price": 0.416
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 4,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 63,
+      "median_price": 0.429
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 5,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 79,
+      "median_price": 0.43
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 6,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 47,
+      "median_price": 0.461
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 7,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 45,
+      "median_price": 0.419
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 8,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 49,
+      "median_price": 0.402
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 9,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 69,
+      "median_price": 0.459
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 10,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 54,
+      "median_price": 0.46
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 11,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 54,
+      "median_price": 0.43
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 12,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 49,
+      "median_price": 0.421
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 13,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 58,
+      "median_price": 0.409
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 14,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 65,
+      "median_price": 0.429
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 15,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 34,
+      "median_price": 0.421
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 16,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 38,
+      "median_price": 0.389
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 17,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 92,
+      "median_price": 0.419
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 18,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.364
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 19,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 74,
+      "median_price": 0.421
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 20,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 48,
+      "median_price": 0.418
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 21,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 72,
+      "median_price": 0.413
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 22,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 41,
+      "median_price": 0.383
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 23,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 54,
+      "median_price": 0.408
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 24,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 53,
+      "median_price": 0.395
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 25,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 68,
+      "median_price": 0.389
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 26,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 63,
+      "median_price": 0.412
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 27,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 54,
+      "median_price": 0.373
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 28,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 65,
+      "median_price": 0.395
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 29,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 39,
+      "median_price": 0.386
+    },
+    {
+      "timestamp": {
+        "month": 9,
+        "day": 30,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 50,
+      "median_price": 0.386
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 1,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 64,
+      "median_price": 0.404
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 2,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 61,
+      "median_price": 0.377
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 3,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 68,
+      "median_price": 0.396
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 4,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 63,
+      "median_price": 0.377
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 5,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 49,
+      "median_price": 0.402
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 6,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 56,
+      "median_price": 0.403
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 7,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 54,
+      "median_price": 0.426
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 8,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 65,
+      "median_price": 0.436
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 9,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 41,
+      "median_price": 0.433
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 10,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 55,
+      "median_price": 0.431
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 11,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 45,
+      "median_price": 0.463
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 12,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 66,
+      "median_price": 0.465
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 13,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 41,
+      "median_price": 0.469
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 14,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 34,
+      "median_price": 0.472
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 15,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 50,
+      "median_price": 0.477
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 16,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 47,
+      "median_price": 0.518
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 17,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 67,
+      "median_price": 0.495
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 18,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 32,
+      "median_price": 0.503
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 19,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 56,
+      "median_price": 0.493
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 20,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 48,
+      "median_price": 0.457
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 21,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 49,
+      "median_price": 0.458
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 22,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 101,
+      "median_price": 0.435
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 23,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 370,
+      "median_price": 0.924
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 24,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 147,
+      "median_price": 0.819
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 25,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 111,
+      "median_price": 0.884
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 26,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 99,
+      "median_price": 0.769
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 27,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 79,
+      "median_price": 0.822
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 9,
+      "median_price": 0.7
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 6,
+        "full_day": true
+      },
+      "sales": 1,
+      "median_price": 0.837
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 7,
+        "full_day": true
+      },
+      "sales": 2,
+      "median_price": 0.852
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 8,
+        "full_day": true
+      },
+      "sales": 1,
+      "median_price": 0.629
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 10,
+        "full_day": true
+      },
+      "sales": 1,
+      "median_price": 0.78
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 11,
+        "full_day": true
+      },
+      "sales": 5,
+      "median_price": 0.686
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 12,
+        "full_day": true
+      },
+      "sales": 1,
+      "median_price": 0.797
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 14,
+        "full_day": true
+      },
+      "sales": 13,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 17,
+        "full_day": true
+      },
+      "sales": 3,
+      "median_price": 0.762
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 19,
+        "full_day": true
+      },
+      "sales": 1,
+      "median_price": 0.574
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 20,
+        "full_day": true
+      },
+      "sales": 3,
+      "median_price": 0.656
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 21,
+        "full_day": true
+      },
+      "sales": 7,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 22,
+        "full_day": true
+      },
+      "sales": 5,
+      "median_price": 0.609
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 28,
+        "year": 2025,
+        "hour": 23,
+        "full_day": true
+      },
+      "sales": 4,
+      "median_price": 0.653
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 0,
+        "full_day": true
+      },
+      "sales": 1,
+      "median_price": 0.609
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 1,
+        "full_day": true
+      },
+      "sales": 6,
+      "median_price": 0.765
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 2,
+        "full_day": true
+      },
+      "sales": 4,
+      "median_price": 0.637
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 3,
+        "full_day": true
+      },
+      "sales": 5,
+      "median_price": 0.78
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 9,
+        "full_day": true
+      },
+      "sales": 8,
+      "median_price": 0.695
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 10,
+        "full_day": true
+      },
+      "sales": 3,
+      "median_price": 0.538
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 11,
+        "full_day": true
+      },
+      "sales": 1,
+      "median_price": 0.663
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 12,
+        "full_day": true
+      },
+      "sales": 3,
+      "median_price": 0.663
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 13,
+        "full_day": true
+      },
+      "sales": 6,
+      "median_price": 0.77
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 14,
+        "full_day": true
+      },
+      "sales": 8,
+      "median_price": 0.78
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 15,
+        "full_day": true
+      },
+      "sales": 1,
+      "median_price": 0.721
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 16,
+        "full_day": true
+      },
+      "sales": 7,
+      "median_price": 0.713
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 17,
+        "full_day": true
+      },
+      "sales": 17,
+      "median_price": 0.802
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 19,
+        "full_day": true
+      },
+      "sales": 6,
+      "median_price": 0.83
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 20,
+        "full_day": true
+      },
+      "sales": 4,
+      "median_price": 0.839
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 21,
+        "full_day": true
+      },
+      "sales": 12,
+      "median_price": 0.85
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 22,
+        "full_day": true
+      },
+      "sales": 2,
+      "median_price": 0.542
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 29,
+        "year": 2025,
+        "hour": 23,
+        "full_day": true
+      },
+      "sales": 3,
+      "median_price": 0.62
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.774
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.776
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.817
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.505
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.861
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.648
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.562
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.809
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.667
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 23,
+      "median_price": 0.77
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.843
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.615
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 17,
+      "median_price": 0.862
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.908
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.85
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.804
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 30,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.82
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.609
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.621
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.64
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.623
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.57
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.522
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 13,
+      "median_price": 0.66
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.671
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.583
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.678
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.723
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.707
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.731
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 11,
+      "median_price": 0.702
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.75
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.696
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.797
+    },
+    {
+      "timestamp": {
+        "month": 10,
+        "day": 31,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 10,
+      "median_price": 0.797
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.6
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.808
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.831
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.711
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.845
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.825
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.785
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.737
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.708
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.731
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.765
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.741
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.709
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 1,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.393
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.699
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.517
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.661
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.548
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.703
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.73
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.762
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.777
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 25,
+      "median_price": 0.843
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.895
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.739
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.719
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.782
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.681
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 2,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.853
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.736
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.738
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.7
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.749
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.745
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.814
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.82
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.761
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.866
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.83
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.845
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 11,
+      "median_price": 0.851
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.727
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.866
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.862
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.858
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 3,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.874
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.874
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.828
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.87
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.594
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.88
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.868
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.819
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.876
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.829
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.852
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.616
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.662
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.794
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.802
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.775
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 4,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.661
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.792
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.804
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.752
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.799
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.796
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.799
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.793
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.701
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.809
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 9,
+      "median_price": 0.84
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 13,
+      "median_price": 0.864
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.42
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.667
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 9,
+      "median_price": 0.828
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.686
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 5,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.666
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.898
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.98
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.724
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.609
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.844
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.831
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.706
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.752
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.744
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.677
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 11,
+      "median_price": 0.848
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.633
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.86
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.87
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.747
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 14,
+      "median_price": 0.779
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 10,
+      "median_price": 0.928
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 6,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.843
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.753
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.812
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.86
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 1.003
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 1.072
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.864
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.892
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.818
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.75
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.883
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.801
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.869
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 7,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.758
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.738
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.748
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.727
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.769
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.728
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.701
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.79
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.726
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.752
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.734
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.735
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 10,
+      "median_price": 0.781
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.724
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.772
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.716
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.754
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.817
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.833
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 8,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.838
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 28,
+      "median_price": 1.018
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.955
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.724
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.878
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.962
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.726
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.793
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.732
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.847
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.798
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 11,
+      "median_price": 0.847
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.805
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.844
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.806
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.718
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.04
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 9,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.728
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.548
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.752
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.76
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.76
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.764
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.705
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.746
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.685
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.692
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.743
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.764
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.762
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.827
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 10,
+      "median_price": 0.845
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.744
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 10,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.837
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.809
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.825
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.707
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.803
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.687
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.737
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.585
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.671
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.654
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.651
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.687
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.707
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.631
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.737
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 11,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.736
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.669
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.681
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 17.56
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.667
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.649
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.636
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 14,
+      "median_price": 0.7
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.71
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.642
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 11,
+      "median_price": 0.783
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.769
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.801
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.715
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.717
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 10,
+      "median_price": 0.851
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.809
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.86
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 12,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.706
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 13,
+      "median_price": 0.917
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.931
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.677
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.719
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.66
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.62
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.689
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.673
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.682
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.683
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.692
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.687
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.685
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.665
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.682
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.649
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.682
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 16,
+      "median_price": 0.716
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.781
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 9,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.583
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 13,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.62
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.604
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.62
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.793
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.8
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.797
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.686
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.638
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.697
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.692
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.805
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.743
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.724
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.691
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 14,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.71
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.618
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.671
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.762
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.78
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.747
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.782
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.718
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.689
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.7
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.693
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.595
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.692
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.757
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.794
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.778
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.8
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.816
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 15,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.736
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.722
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.815
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.699
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.618
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.697
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.571
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.779
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.724
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.756
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.709
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.768
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.649
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.612
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.787
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.808
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 16,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 10,
+      "median_price": 0.804
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.64
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.75
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.778
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.802
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.7
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.628
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.804
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.665
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.663
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.655
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.648
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.656
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 9,
+      "median_price": 0.7
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.625
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 17,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.663
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.701
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.8
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.73
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.733
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.71
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.721
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.625
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.755
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 13,
+      "median_price": 0.765
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.784
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.8
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 18,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.747
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.73
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.742
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.798
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.798
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.785
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.707
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.781
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.798
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.798
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.678
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.697
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.8
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 19,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 8,
+      "median_price": 0.801
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.797
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.701
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.763
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.793
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.715
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.694
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.652
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.712
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.787
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.722
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.727
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.632
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.734
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.693
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 20,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.796
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.64
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.676
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.623
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.68
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.752
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.663
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.73
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.724
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.55
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.789
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.793
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.795
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.683
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 13,
+      "median_price": 0.796
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.698
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 21,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.733
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.697
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.506
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.71
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.736
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.794
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.709
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.673
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.681
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.623
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.63
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.661
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.667
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.674
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.623
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.756
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 11,
+      "median_price": 0.794
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 9,
+      "median_price": 0.799
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.695
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 22,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.511
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.81
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.623
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.665
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.651
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.666
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.667
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.644
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.66
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.665
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.606
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.69
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.76
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.66
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.787
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.73
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.769
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.771
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 23,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.795
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.631
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.841
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.787
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.754
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 8,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.74
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.851
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.651
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.658
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.631
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.656
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.652
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.688
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.658
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.656
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.66
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.582
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.652
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 24,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.626
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.685
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.685
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.575
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.514
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.622
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 12,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.61
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.649
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.636
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.631
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.689
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 5,
+      "median_price": 0.665
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.702
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 7,
+      "median_price": 0.689
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.667
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 25,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.659
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.643
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 2,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.656
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.656
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 5,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.663
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 6,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.654
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.669
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.651
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.63
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.686
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.685
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.675
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 10,
+      "median_price": 0.716
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.723
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.751
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.733
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 4,
+      "median_price": 0.773
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.723
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.713
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.668
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 26,
+        "year": 2025,
+        "hour": 23,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.755
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.679
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 1,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.637
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 4,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.8
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 7,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.745
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 9,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.747
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 10,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.75
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 11,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.725
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 13,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.713
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 14,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.733
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 15,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.726
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 16,
+        "full_day": false
+      },
+      "sales": 2,
+      "median_price": 0.681
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 17,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.628
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 18,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.662
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 19,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.662
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 20,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.65
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 21,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.682
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 27,
+        "year": 2025,
+        "hour": 22,
+        "full_day": false
+      },
+      "sales": 6,
+      "median_price": 0.678
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 28,
+        "year": 2025,
+        "hour": 0,
+        "full_day": false
+      },
+      "sales": 3,
+      "median_price": 0.751
+    },
+    {
+      "timestamp": {
+        "month": 11,
+        "day": 28,
+        "year": 2025,
+        "hour": 3,
+        "full_day": false
+      },
+      "sales": 1,
+      "median_price": 0.699
+    }
+  ],
+  "standard_sales": 0,
+  "standard_quantity": 100,
+  "adjusted_quantity": 0
+}

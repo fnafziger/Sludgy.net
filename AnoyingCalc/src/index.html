@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sludgy.net</title>
+<link rel="icon" type="image/png" href="../../Images/Favicon.png">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<div class="Header">
+    <a id="Logo" href="../../MainPage.html">
+        <img src="../../Images/Logo.png" alt="Logo" style="width:192px;height:108px;">
+    </a>
+    <div class="OtherPages">
+        <a href="../../UpdatesPage.Html">Updates</a>
+        <a href="../../ContactPage.Html">Contact Me!</a>
+    </div>
+</div>
+<h2 style="text-align: center;">Compare real stock with Counter Strike 2 items!</h2>
+
+<div class="controls">
+    <input type="text" id="symbol" placeholder="AAPL" value="AAPL">
+    <button onclick="loadStock()">Load Stock</button>
+    <button onclick="clearChart()">Clear Chart</button>
+
+  <select id="csItemSelect" onchange="loadCSItem()">
+      <option value="">Select CS Item</option>
+      <option value="zeus">Zeus | Tosai</option>
+      <option value="AK-47 - Redline">AK-47 | Redline</option>
+      <option value="AWP - Duality">AWP | Duality</option>
+  </select>
+</div>
+
+<br><br>
+<div id="csScaleContainer" style="display:none;">
+    <label for="scaleSlider">CS Item Scale:</label>
+    <input type="range" id="scaleSlider" min="0.1" max="100" step="0.1" value="1">
+    <span id="scaleValue">1</span>
+</div>
+<br>
+<canvas id="chart"></canvas>
+
+<script>
+let chart;
+
+const scaleSlider = document.getElementById("scaleSlider");
+const scaleValue = document.getElementById("scaleValue");
+scaleSlider.addEventListener("input", () => {
+    scaleValue.textContent = scaleSlider.value;
+    if(chart){
+        chart.data.datasets.forEach(d => {
+            if(d.isCS){ 
+                d.data = d.originalData.map(p => p * parseFloat(scaleSlider.value));
+            }
+        });
+        chart.update();
+    }
+});
+
+async function loadStock(){
+    document.getElementById("csScaleContainer").style.display = "none";
+    const symbol = document.getElementById("symbol").value.toUpperCase().trim();
+    if(!symbol){ alert("Enter a stock symbol"); return; }
+
+    document.getElementById("csScaleContainer").style.display = "none";
+
+    const apiKey = "4XU01WRSSSUQ0NAM";
+    const url = `https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=${symbol}&apikey=${apiKey}`;
+
+    try{
+        const response = await fetch(url);
+        const data = await response.json();
+        const timeSeries = data["Time Series (Daily)"];
+        if(!timeSeries){ alert("ERROR: Hey SlugyFred here, check that your stock symbol is correct, if your sure it is, its due to my free api running out for the day. I'm useing a free service to get stocks beacause im broke rn. Anyways thanks for useing my site!"); console.log(data); return; }
+
+        let dates = Object.keys(timeSeries).sort();
+        let prices = dates.map(d => parseFloat(timeSeries[d]["4. close"]));
+
+        drawChart(dates, prices, symbol, false);
+
+    } catch(err){
+        alert("Error loading stock");
+        console.error(err);
+    }
+}
+
+async function loadCSItem(){
+    const select = document.getElementById("csItemSelect");
+    const value = select.value;
+    if(!value) return;
+    
+
+    document.getElementById("csScaleContainer").style.display = "block";
+
+    try{
+        const response = await fetch(`Data/${value}.json`);
+        const csData = await response.json();
+
+        const labels = csData.price_history.map(item => {
+            const t = item.timestamp;
+            return `${t.year}-${String(t.month).padStart(2,'0')}-${String(t.day).padStart(2,'0')}`;
+        });
+        const prices = csData.price_history.map(item => item.median_price);
+
+        drawChart(labels, prices, csData.display_name, true);
+
+    } catch(err){
+        alert("Error loading CS item data");
+        console.error(err);
+    }
+}
+
+function drawChart(labels, prices, name, isCS=false){
+    const ctx = document.getElementById("chart");
+    if(!chart){
+        chart = new Chart(ctx,{
+            type:"line",
+            data:{labels, datasets:[]},
+            options:{
+                responsive:true,
+                plugins:{legend:{display:true}},
+                scales:{x:{ticks:{maxTicksLimit:10}}}
+            }
+        });
+    }
+
+    let dataset = {
+        label:name,
+        data:prices.slice(),
+        borderColor:getRandomColor(),
+        borderWidth:2,
+        fill:false
+    };
+
+    if(isCS){
+        dataset.originalData = prices.slice();
+        dataset.isCS = true;
+        dataset.data = dataset.originalData.map(p => p * parseFloat(scaleSlider.value));
+    }
+
+    chart.data.datasets.push(dataset);
+    chart.update();
+}
+
+function clearChart(){
+    if(chart){
+        chart.destroy();
+        chart = null;
+    }
+}
+
+function getRandomColor(){
+    const colors = ["green","blue","purple","red","orange","brown"];
+    return colors[Math.floor(Math.random()*colors.length)];
+}
+</script>
+</body>
+</html>
